@@ -5,6 +5,7 @@
     {
 
         #region TRANSPOSE
+        
         public static int[,] transpose(int[,] matrix)
         {
             //Определение количества строк
